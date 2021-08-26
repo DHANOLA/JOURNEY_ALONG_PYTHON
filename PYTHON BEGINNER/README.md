@@ -16,6 +16,10 @@
   &nbsp &nbsp &nbsp &nbsp <li> DICTIONARIES. </a></li>
 </ul> 
 
-<br><br>
+<br>
 
-<a href="https://github.com/DHANOLA/DATASETS">*=>CHECKOUT THE USED DATA RESOURCES USED IN THE REPO* </a>
+*<a href="https://github.com/DHANOLA/MY-PROGRESS/blob/DH%40NOLA/PYTHON%20BEGINNER/PYTHON%20BASIC%20NOTEBOOK%20-%20I.ipynb">=>BEGINNER`S FILE</a>*
+
+<br>
+
+*<a href="https://github.com/DHANOLA/DATASETS">=>CHECKOUT THE USED DATA RESOURCES USED IN THE REPO </a>*
